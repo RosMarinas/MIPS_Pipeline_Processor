@@ -1,2 +1,2 @@
-# MIPS_Single_Processor
-MIPS_Single_Processor
+# MIPS_Pipeline_Processor
+MIPS_Pipeline_Processor
